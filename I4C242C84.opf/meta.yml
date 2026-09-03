@@ -1,0 +1,22 @@
+id: I4C242C84
+initial_creation_type: ebook
+source_metadata:
+  id: NP-02
+  title: ༄༅། །སེམས་ཀྱི་གསང་བ་མངོན་དུ་ཕྱུང་བ། །
+  author: མཛད་པ་པོ། སྤྲུལ་སྐུ་པདྨ་རིག་རྩལ་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། སྤྲུལ་སྐུ་པདྨ་རིག་རྩལ་རྡོ་རྗེ།
+  sku: NP-02
+  cover: New-NP-02.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །སེམས་ཀྱི་གསང་བ་མངོན་དུ་ཕྱུང་བ། །
+  authors: *id001
+  sku: NP-02
+  cover: New-NP-02.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
